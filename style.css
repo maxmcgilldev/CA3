@@ -34,7 +34,9 @@ body {
     font-family: 'Ovo', sans-serif; 
 }
 
-
+.darkbg{
+    background-color: #E8DDD3;
+}
 /*fonts */
 .ovo-regular {
     font-family: "Ovo", serif;
