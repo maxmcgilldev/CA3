@@ -1,9 +1,49 @@
+/*page styling */
 body {
     margin: 0;
     padding: 0;
+    background-color: #ECE5DE !important;
   }
 
   .img-fluid {
     max-width: 100%;
     height: auto;
+}
+
+.grey-line {
+    border: 2px solid grey; 
+    width: 100%; 
+    background-color: transparent;
+    margin-top:-18px;
+}
+
+
+/*font stylings*/
+.title-big{
+  font-size: 3em !important;
+}
+
+/* Nav Styling */
+.navbar-nav .nav-link{
+    color: #515151; 
+    font-family: 'pridi', sans-serif;
+}
+
+.navbar-brand {
+    color: black; 
+    font-family: 'Ovo', sans-serif; 
+}
+
+
+/*fonts */
+.ovo-regular {
+    font-family: "Ovo", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.pridi-regular {
+font-family: "Pridi", serif;
+font-weight: 400;
+font-style: normal;
 }
